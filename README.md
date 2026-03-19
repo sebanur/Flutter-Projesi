@@ -48,16 +48,15 @@ flutter run
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 📱 Ekran Görüntüleri
 
-## 🏠 Ana Sayfa
-<img src="screenshots/home.png" width="100"/>
+### 🏠 Ana Sayfa | 📦 Ürün Detay | 🛒 Sepet
 
-## 📦 Ürün Detay
-<img src="screenshots/detail.png" width="100"/>
-
-## 🛒 Sepet
-<img src="screenshots/screen5.png" width="100"/>
+<p float="left">
+  <img src="screenshots/home.png" width="200"/>
+  <img src="screenshots/detail.png" width="200"/>
+  <img src="screenshots/screen5.png" width="200"/>
+</p>
 
 ---
 
