@@ -1,17 +1,66 @@
-# flutter_application
+# 📱 Flutter Projesi – Mini Katalog Uygulaması
 
-A new Flutter project.
+## 📌 Proje Adı
+Flutter Projesi – Mini Katalog Uygulaması
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧾 Proje Açıklaması
+Bu proje Flutter ile geliştirilmiş basit bir mobil katalog uygulamasıdır. Uygulamada ürünler listelenir ve kullanıcılar ürünleri inceleyip sepetlerine ekleyebilir. Proje, Flutter eğitim süreci kapsamında widget yapısı, listeleme, ekranlar arası geçiş ve temel kullanıcı arayüzü geliştirme konularını öğrenmek amacıyla hazırlanmıştır.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Kullanılan Teknolojiler
+- Flutter  
+- Dart  
+- Material Design  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Flutter Sürümü
+Flutter 3.x
+
+---
+
+## 📱 Uygulama Özellikleri
+- Ürün listeleme ekranı  
+- Ürün detay sayfası  
+- Sepete ürün ekleme  
+- Sepetteki ürünleri görüntüleme  
+- Sayfalar arası geçiş (Navigator)  
+
+---
+
+## 🚀 Projeyi Çalıştırma Adımları
+
+1. Projeyi klonlayın:  
+
+git clone https://github.com/KULLANICI_ADIN/Flutter_Projesi.git
+
+2. Proje dizinine girin:
+
+cd flutter_application
+
+3. Gerekli paketleri yükleyin:
+
+flutter pub get
+
+4. Uygulamayı çalıştırın:
+flutter run
+
+---
+
+## 📸 Ekran Görüntüleri
+
+### 🏠 Ana Sayfa
+![Ana Sayfa](screenshots/home.png)
+
+### 📦 Ürün Listesi / Detay
+![Ürün Detay](screenshots/detail.png)
+
+### 🛒 Sepet Sayfası
+![Sepet](screenshots/cart.png)
+
+---
+
+## 🎯 Proje Amacı
+
+Bu proje Flutter mobil uygulama geliştirme eğitiminde öğrenilen bilgilerin pekiştirilmesi amacıyla hazırlanmıştır. Projede temel Flutter widget yapıları, listeleme işlemleri ve kullanıcı arayüzü tasarımı kullanılmıştır.

@@ -77,9 +77,7 @@ class _CartScreenState extends State<CartScreen> {
                                   decoration: BoxDecoration(
                                     borderRadius: BorderRadius.circular(12),
                                     image: DecorationImage(
-                                      image: NetworkImage(
-                                        "https://wantapi.com/assets/banner.png",
-                                      ),
+                                      image: NetworkImage(item.image ?? ""),
                                       fit: BoxFit.fitWidth,
                                     ),
                                   ),

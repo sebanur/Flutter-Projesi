@@ -54,6 +54,8 @@ class _HomeScreenState extends State<HomeScreen> {
       final name = product.name ?? "";
       return name.toUpperCase().contains(searchQuery.toUpperCase());
     }).toList();
+
+    return Scaffold(
       backgroundColor: Colors.white,
       body: SafeArea(
         child: Padding(
