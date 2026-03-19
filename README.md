@@ -50,14 +50,14 @@ flutter run
 
 ## 📸 Ekran Görüntüleri
 
-### 🏠 Ana Sayfa
-![Ana Sayfa](screenshots/home.png)
+## 🏠 Ana Sayfa
+<img src="screenshots/home.png" width="300"/>
 
-### 📦 Ürün Listesi / Detay
-![Ürün Detay](screenshots/detail.png)
+## 📦 Ürün Detay
+<img src="screenshots/detail.png" width="300"/>
 
-### 🛒 Sepet Sayfası
-![Sepet](screenshots/cart.png)
+## 🛒 Sepet
+<img src="screenshots/screen5.png" width="300"/>
 
 ---
 
