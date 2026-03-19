@@ -33,7 +33,7 @@ Flutter 3.x
 
 1. Projeyi klonlayın:  
 
-git clone https://github.com/KULLANICI_ADIN/Flutter_Projesi.git
+git clone https://github.com/sebanur/Flutter_Projesi.git
 
 2. Proje dizinine girin:
 
