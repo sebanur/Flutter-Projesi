@@ -52,10 +52,10 @@ flutter run
 
 ### 🏠 Ana Sayfa | 📦 Ürün Detay | 🛒 Sepet
 
-<p float="left">
-  <img src="screenshots/home.png" width="200"/>
-  <img src="screenshots/detail.png" width="200"/>
-  <img src="screenshots/screen5.png" width="200"/>
+<p>
+  <img src="screenshots/home.png" width="200" style="margin:10px;"/>
+  <img src="screenshots/detail.png" width="200" style="margin:10px;"/>
+  <img src="screenshots/screen5.png" width="200" style="margin:10px;"/>
 </p>
 
 ---
