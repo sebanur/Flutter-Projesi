@@ -52,11 +52,13 @@ flutter run
 
 ### 🏠 Ana Sayfa | 📦 Ürün Detay | 🛒 Sepet
 
-<p>
-  <img src="screenshots/home.png" width="200" style="margin:500px;"/>
-  <img src="screenshots/detail.png" width="200" style="margin:500px;"/>
-  <img src="screenshots/screen5.png" width="200" style="margin:500px;"/>
-</p>
+<table cellspacing="10">
+  <tr>
+    <td><img src="screenshots/home.png" width="200"/></td>
+    <td><img src="screenshots/detail.png" width="200"/></td>
+    <td><img src="screenshots/screen5.png" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
